@@ -1,0 +1,6 @@
+{
+  "name": "Frendo",
+  "description": "A full-featured social networking app with news feed, reactions, stories, real-time messaging, friends system, notifications, groups, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
